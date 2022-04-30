@@ -1,0 +1,27 @@
+var x = "Hello World";
+var z = 100;
+x = "hii"
+z = 100;
+document.write(x);
+document.write(x);
+document.write(z);
+document.write(z);
+var c, v;
+c = "heyy";
+v = 50;
+document.write(c);
+document.write(c);
+document.write(v);
+document.write(v);
+var s = 'hi';
+var j = 40;
+document.write(s);
+document.write(s);
+document.write(j);
+document.write(j);
+var firstName = "Pakistan";
+var first_name = 500;
+document.write(firstName);
+document.write(firstName);
+document.write(first_name);
+document.write(first_name);
